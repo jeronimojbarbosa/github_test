@@ -1,4 +1,4 @@
-# github_test
+# github-com-vscode
  - Testando o GITHUB.
  - Testando a conexão com VSCODE.
  - Testando STAGE e COMMIT.
