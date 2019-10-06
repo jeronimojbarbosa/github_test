@@ -1,3 +1,3 @@
 # github_test
-Testando o GITHUB.
-Testando a conexão com VSCODE.
+ - Testando o GITHUB.
+ - Testando a conexão com VSCODE.
